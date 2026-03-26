@@ -57,4 +57,4 @@ Circuito aritmetico combinatorio in grado di eseguire sia addizioni che sottrazi
 1. **Clona il repository** sul tuo PC aprendo il terminale e digitando:
 
    ```bash
-   git clone [https://github.com/Francesco-Merlo/Digital-Electronics-Projects.git](https://github.com/Francesco-Merlo/Digital-Electronics-Projects.git)
+   git clone git clone https://github.com/Francesco-Merlo/Digital-Electronics-Projects.git
