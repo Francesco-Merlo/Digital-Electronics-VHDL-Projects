@@ -58,3 +58,5 @@ Circuito aritmetico combinatorio in grado di eseguire sia addizioni che sottrazi
 
    ```bash
    git clone https://github.com/Francesco-Merlo/Digital-Electronics-Projects.git
+   
+Sviluppato da Francesco Merlo 👨‍💻
