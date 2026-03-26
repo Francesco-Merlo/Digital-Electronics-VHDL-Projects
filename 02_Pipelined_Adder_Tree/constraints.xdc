@@ -1,0 +1,2 @@
+# Definiamo un clock ideale a 100 MHz (10 ns)
+create_clock -period 10.000 -name sys_clk -waveform {0.000 5.000} [get_ports clk]
